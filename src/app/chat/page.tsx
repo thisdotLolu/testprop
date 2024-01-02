@@ -25,7 +25,7 @@ function ChatPage() {
     const router = useRouter()
   return (
     <>
-     <div className='lg:hidden w-full chatpage flex flex-col justify-between items-center p-2'>
+     <div className='lg:hidden w-full chatpage flex flex-col justify-between items-center p-2 max-h-screen'>
      <div className='flex flex-col lg:w-[50%] w-full p-2'>
       <div className='flex justify-between items-center 2xl:mb-[30px] mb-[10px] w-full'>
       <ChevronLeftIcon

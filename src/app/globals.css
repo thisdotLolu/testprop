@@ -38,6 +38,6 @@ body {
 
 @media screen and (max-width: 900px) {
   .chatpage{
-    height: calc(100vh - 30px);
+    height: calc(95vh);
   } 
 }
